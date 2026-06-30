@@ -20,8 +20,8 @@ mp_holistic = mp.solutions.holistic
 mp_drawing = mp.solutions.drawing_utils
 
 # Pushover notification setup
-api_token = 'av48uwk6ic2oheyyjf44phrt47q5dz'
-user_key = 'ugw9227sfr8ih35wrejgaku7533sbe'
+api_token = 'av48uwk6ic2oheyyjf44phrb47q5dz'
+user_key = 'ugw9227sfr8ih35wrejgaku8533sbe'
 target_sequences = [['call', 'police'], ['help', 'me'], ['danger', 'call', 'police']]
 
 # Colors for visualization
